@@ -81,31 +81,36 @@ tr,
 p,
 a {
   /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
-  font-family: "Times New Roman", Times, serif;
+  /*font-family: "Times New Roman", Times, serif;*/
+  font-family: 'Linux Libertine', sans-serif;
   font-size: 14px
 }
 
 strong {
   /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
-  font-family: "Times New Roman", Times, serif;
+  /*font-family: "Times New Roman", Times, serif;*/
+  font-family: 'Linux Libertine', sans-serif;
   font-size: 14px;
 }
 
 heading {
   /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
-  font-family: "Times New Roman", Times, serif;
+  /*font-family: "Times New Roman", Times, serif;*/
+  font-family: 'Linux Libertine', sans-serif;
   font-size: 22px;
 }
 
 papertitle {
   /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
-  font-family: "Times New Roman", Times, serif;
+  /*font-family: "Times New Roman", Times, serif;*/
+  font-family: 'Linux Libertine', sans-serif;
   font-weight: 700
 }
 
 name {
   /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
-  font-family: "Times New Roman", Times, serif;
+  /*font-family: "Times New Roman", Times, serif;*/
+  font-family: 'Linux Libertine', sans-serif;
   font-size: 32px;
 }
 
